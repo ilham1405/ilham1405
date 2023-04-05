@@ -1,5 +1,5 @@
 #  Hello👋 i'm Ilham Dimas, come from Indonesia🇮🇩. <br>🍁welcome to my github🍁
-🔭 I'm currently working on an android bug <br>👯 I want to collaborate with anyone <br>🌱 I'm currently learning to understand the Android system <br>💬 Ask me anything<br>☕ So, what coffee will you give me today??
+🔭 I'm currently working on bug android <br>👯 I want to collaborate with anyone <br>🌱 I'm currently learning to understand the Android system <br>💬 Ask me anything<br>☕ So, what coffee will you give me today??
 
 
 ## 🌐 Socials:
